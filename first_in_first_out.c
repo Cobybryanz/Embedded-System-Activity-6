@@ -1,10 +1,10 @@
 // FIFO Code
-int led1 = 7;
-int led2 = 6;
-int led3 = 5;
-int led4 = 4;
-int led5 = 3;
-int led6 = 2;
+int led1 = 12;
+int led2 = 11;
+int led3 = 10;
+int led4 = 7;
+int led5 = 6;
+int led6 = 5;
 
 // Led Output
 void setup()
